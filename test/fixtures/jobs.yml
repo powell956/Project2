@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tutor_id: 1
+  student_id: 1
+  description: MyString
+  location: MyString
+  time: 2019-02-11 11:57:39
+  rate: 1
+  topic_id: 1
+
+two:
+  tutor_id: 1
+  student_id: 1
+  description: MyString
+  location: MyString
+  time: 2019-02-11 11:57:39
+  rate: 1
+  topic_id: 1
